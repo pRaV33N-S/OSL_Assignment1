@@ -1,0 +1,20 @@
+Rajesh Kumar, 16, Male, Grade 10, 123 Ganga Nagar, Delhi, (91) 9876543210, rajesh.kumar@email.com
+Priya Patel, 15, Female, Grade 9, 456 Gandhi Road, Mumbai, (91) 8765432109, priya.patel@email.com
+Ankit Sharma, 17, Male, Grade 11, 789 Yamuna Vihar, Kolkata, (91) 7654321098, ankit.sharma@email.com
+Aarti Reddy, 14, Female, Grade 8, 321 Nandi Hills, Bengaluru, (91) 6543210987, aarti.reddy@email.com
+Suresh Verma, 16, Male, Grade 10, 567 Lotus Avenue, Hyderabad, (91) 5432109876, suresh.verma@email.com
+Kavita Singh, 17, Female, Grade 11, 890 Taj Mahal Road, Agra, (91) 4321098765, kavita.singh@email.com
+Vikram Desai, 15, Male, Grade 9, 432 Charminar Street, Ahmedabad, (91) 3210987654, vikram.desai@email.com
+Meera Patel, 18, Female, Grade 12, 987 Red Fort Apartments, Jaipur, (91) 2109876543, meera.patel@email.com
+Rahul Sharma, 16, Male, Grade 10, 654 Gateway Colony, Pune, (91) 1098765432, rahul.sharma@email.com
+Ananya Das, 17, Female, Grade 11, 210 Victoria Road, Chennai, (91) 9876543210, ananya.das@email.com
+Arjun Patel, 15, Male, Grade 9, 123 Lotus Nagar, Surat, (91) 8765432109, arjun.patel@email.com
+Nisha Rao, 16, Female, Grade 10, 456 Rose Garden, Lucknow, (91) 7654321098, nisha.rao@email.com
+Rohit Mehta, 17, Male, Grade 11, 789 Himalaya Heights, Dehradun, (91) 6543210987, rohit.mehta@email.com
+Shruti Nair, 14, Female, Grade 8, 321 Coconut Avenue, Kochi, (91) 5432109876, shruti.nair@email.com
+Vikas Yadav, 16, Male, Grade 10, 567 Taj Mahal Road, Varanasi, (91) 4321098765, vikas.yadav@email.com
+Priyanka Sharma, 17, Female, Grade 11, 890 Red Fort Colony, Bhopal, (91) 3210987654, priyanka.sharma@email.com
+Mohan Das, 15, Male, Grade 9, 432 Charminar Street, Indore, (91) 2109876543, mohan.das@email.com
+Riya Singh, 18, Female, Grade 12, 987 Gateway Apartments, Chandigarh, (91) 1098765432, riya.singh@email.com
+Karan Kapoor, 16, Male, Grade 10, 654 Marine Drive, Mumbai, (91) 9876543210, karan.kapoor@email.com
+Deepika Sharma, 17, Female, Grade 11, 210 Ganges Road, Kolkata, (91) 8765432109, deepika.sharma@email.com
